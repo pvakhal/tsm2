@@ -1,0 +1,651 @@
+constituency;population;remain;leave
+Streatham;84783;0,795;0,205
+Bristol West;99253;0,793;0,207
+Hackney North and Stoke Newington;92462;0,791;0,209
+Glasgow North;5713;0,784;0,216
+Islington North;75162;0,784;0,216
+Foyle;74346;0,783;0,217
+Edinburgh North and Leith;81336;0,782;0,218
+Dulwich and West Norwood;80331;0,78;0,22
+Hackney South and Shoreditch;89387;0,779;0,221
+Edinburgh South;66188;0,778;0,222
+Vauxhall;88659;0,776;0,224
+Battersea;7935;0,77;0,23
+Hampstead and Kilburn;86571;0,766;0,234
+Tottenham;7574;0,762;0,238
+Lewisham Deptford;80631;0,754;0,246
+Hornsey and Wood Green;81814;0,75;0,25
+Tooting;76954;0,747;0,253
+East Renfrewshire;72232;0,743;0,257
+Belfast West;65644;0,741;0,259
+Cambridge;79951;0,738;0,262
+Manchester Withington;7653;0,737;0,263
+Brighton Pavilion;79057;0,734;0,266
+East Dunbartonshire;66075;0,733;0,267
+Holborn and St Pancras;86061;0,733;0,267
+Richmond Park;82699;0,733;0,267
+Liverpool Riverside;8031;0,732;0,268
+Putney;65556;0,732;0,268
+Bermondsey and Old Southwark;93248;0,73;0,27
+Edinburgh East;69424;0,724;0,276
+Edinburgh South West;73501;0,721;0,279
+Glasgow South;70891;0,718;0,282
+Islington South and Finsbury;70489;0,717;0,283
+Cities of London and Westminster;637;0,714;0,286
+Edinburgh West;72507;0,712;0,288
+Glasgow Central;6923;0,712;0,288
+Ealing Central and Acton;7551;0,709;0,291
+Chelsea and Fulham;6711;0,708;0,292
+Wimbledon;6824;0,706;0,294
+Camberwell and Peckham;88971;0,699;0,301
+Cardiff Central;64037;0,697;0,303
+Sheffield Central;89849;0,696;0,304
+Belfast South;69984;0,695;0,305
+Bethnal Green and Bow;88262;0,691;0,309
+Finchley and Golders Green;77573;0,691;0,309
+Hammersmith;74759;0,69;0,31
+Kensington;64609;0,687;0,313
+Glasgow North West;63402;0,685;0,315
+Bath;67805;0,684;0,316
+Aberdeen South;65719;0,677;0,323
+Stirling;68473;0,677;0,323
+Oxford East;78303;0,677;0,323
+South Down;79175;0,672;0,328
+Westminster North;65519;0,671;0,329
+West Tyrone;66259;0,668;0,332
+Walthamstow;70267;0,665;0,335
+Birmingham Hall Green;80283;0,664;0,336
+Twickenham;84906;0,664;0,336
+Hove;74313;0,661;0,339
+Paisley and Renfrewshire South;64385;0,659;0,341
+Poplar and Limehouse;91836;0,659;0,341
+Lewisham West and Penge;74617;0,656;0,344
+Arfon;42215;0,651;0,349
+Leeds North West;67741;0,647;0,353
+East Lothian;816;0,646;0,354
+Lanark and Hamilton East;77659;0,646;0,354
+Lewisham East;67857;0,646;0,354
+Birmingham Ladywood;74912;0,644;0,356
+Greenwich and Woolwich;79997;0,643;0,357
+Liverpool Wavertree;63458;0,642;0,358
+Sheffield Hallam;72763;0,641;0,359
+Paisley and Renfrewshire North;72007;0,64;0,36
+Inverclyde;60622;0,638;0,362
+Manchester Central;92247;0,634;0,366
+Motherwell and Wishaw;68856;0,631;0,369
+Leyton and Wanstead;64852;0,629;0,371
+Newry and Armagh;81226;0,629;0,371
+Leeds North East;7058;0,627;0,373
+Rutherglen and Hamilton West;80918;0,627;0,373
+St Albans;73727;0,626;0,374
+Cumbernauld Kilsyth and Kirkintilloch East;66079;0,621;0,379
+East Kilbride Strathaven and Lesmahagow;81224;0,621;0,379
+Enfield Southgate;65525;0,621;0,379
+Manchester Gorton;76419;0,621;0,379
+Midlothian;70544;0,621;0,379
+West Dunbartonshire;66517;0,62;0,38
+North East Fife;60905;0,619;0,381
+Oxford West and Abingdon;76951;0,619;0,381
+Dundee East;6621;0,618;0,382
+Reading East;77152;0,618;0,382
+Altrincham and Sale West;73107;0,616;0,384
+South Cambridgeshire;87288;0,616;0,384
+York Central;74899;0,615;0,385
+West Aberdeenshire and Kincardine;7264;0,614;0,386
+Coatbridge Chryston and Bellshill;72943;0,613;0,387
+Cardiff North;68438;0,609;0,391
+Ochil and South Perthshire;78776;0,608;0,392
+Argyll and Bute;66525;0,606;0,394
+Kilmarnock and Loudoun;74517;0,604;0,396
+Mid Ulster;70449;0,604;0,396
+Hitchin and Harpenden;76323;0,603;0,397
+Winchester;75582;0,603;0,397
+Airdrie and Shotts;64011;0,6;0,4
+Dunfermline and West Fife;76652;0,6;0,4
+Perth and North Perthshire;726;0,599;0,401
+Norwich South;77845;0,598;0,402
+Orkney and Shetland;34211;0,597;0,403
+South West Surrey;79096;0,594;0,406
+Glasgow North East;61075;0,593;0,407
+Chipping Barnet;7996;0,591;0,409
+Croydon North;88468;0,591;0,409
+Glasgow South West;64575;0,591;0,409
+Dundee West;64431;0,589;0,411
+Guildford;77729;0,589;0,411
+Newcastle upon Tyne East;68486;0,589;0,411
+Warwick and Leamington;76362;0,589;0,411
+Inverness Nairn Badenoch and Strathspey;78059;0,587;0,413
+Rushcliffe;77047;0,587;0,413
+Fermanagh and South Tyrone;72848;0,586;0,414
+Kingston and Surbiton;81975;0,585;0,415
+Bristol North West;76273;0,584;0,416
+Esher and Walton;81184;0,584;0,416
+Kirkcaldy and Cowdenbeath;72853;0,584;0,416
+Linlithgow and East Falkirk;87044;0,584;0,416
+Ealing Southall;64581;0,582;0,418
+Falkirk;84472;0,581;0,419
+Hendon;82661;0,581;0,419
+North Ayrshire and Arran;73534;0,578;0,422
+Central Ayrshire;69742;0,578;0,422
+Wokingham;83953;0,576;0,424
+Leicester South;77708;0,575;0,425
+Swansea West;57078;0,574;0,426
+Cheadle;74577;0,573;0,427
+Cheltenham;81044;0,573;0,427
+City of Chester;76057;0,573;0,427
+Ayr Carrick and Cumnock;7197;0,571;0,429
+Brent Central;84032;0,571;0,429
+Nottingham East;66262;0,571;0,429
+Aberdeen North;62489;0,57;0,43
+Brent North;83788;0,57;0,43
+Henley;76646;0,57;0,43
+Berwickshire Roxburgh and Selkirk;74518;0,568;0,432
+Brentford and Isleworth;85775;0,567;0,433
+Ross Skye and Lochaber;5423;0,567;0,433
+Brighton Kemptown;69833;0,576;0,424
+Harrow West;72464;0,566;0,434
+Glasgow East;67381;0,562;0,438
+Ilford South;84972;0,562;0,438
+Livingston;82285;0,562;0,438
+Dumfriesshire Clydesdale and Tweeddale;6833;0,561;0,439
+Woking;75424;0,56;0,44
+City of Durham;71271;0,557;0,443
+Gordon;79629;0,555;0,445
+Exeter;82054;0,553;0,447
+Mitcham and Morden;70021;0,553;0,447
+Tunbridge Wells;74823;0,553;0,447
+Wirral West;5555;0,553;0,447
+Cardiff West;68508;0,552;0,448
+Na h-Eileanan an Iar;21106;0,552;0,448
+Cardiff South and Penarth;78837;0,551;0,449
+South East Cambridgeshire;86769;0,551;0,449
+York Outer;74673;0,551;0,449
+Chesham and Amersham;72542;0,55;0,45
+Sefton Central;6976;0,549;0,451
+Canterbury;80203;0,547;0,453
+Dumfries and Galloway;7458;0,547;0,453
+Hexham;61324;0,547;0,453
+Ceredigion;5625;0,546;0,454
+Maidenhead;76668;0,546;0,454
+Edmonton;65747;0,545;0,455
+Southport;70837;0,545;0,455
+Croydon South;83982;0,542;0,458
+Pontypridd;60327;0,542;0,458
+Romsey and Southampton North;68228;0,542;0,458
+Tatton;69018;0,542;0,458
+North East Hampshire;78954;0,541;0,459
+Stroud;84537;0,541;0,459
+Windsor;75038;0,54;0,46
+Ealing North;74473;0,537;0,463
+Witney;83845;0,537;0,463
+South West Hertfordshire;80499;0,537;0,463
+Wantage;90867;0,536;0,464
+Glenrothes;65672;0,536;0,464
+Kenilworth and Southam;68154;0,535;0,465
+Nottingham South;79485;0,535;0,465
+Mid Sussex;85146;0,534;0,466
+Wirral South;5728;0,534;0,466
+Bradford West;70694;0,533;0,467
+Bristol East;73867;0,532;0,468
+Stockport;65391;0,532;0,468
+Lewes;71503;0,531;0,469
+Birmingham Selly Oak;82665;0,531;0,469
+East Ham;88319;0,531;0,469
+Bristol South;84079;0,529;0,471
+Truro and Falmouth;76719;0,529;0,471
+Harrogate and Knaresborough;77941;0,528;0,472
+Birmingham Edgbaston;68828;0,527;0,473
+West Ham;97947;0,527;0,473
+Leeds Central;90971;0,526;0,474
+Westmorland and Lonsdale;67789;0,526;0,474
+Harrow East;72106;0,525;0,475
+Newbury;83414;0,525;0,475
+Mole Valley;74665;0,525;0,475
+North Down;67099;0,524;0,476
+Reigate;74242;0,523;0,477
+The Cotswolds;81939;0,523;0,477
+Garston and Halewood;76116;0,522;0,478
+Monmouth;67098;0,522;0,478
+Tynemouth;77261;0,522;0,478
+Epsom and Ewell;81138;0,521;0,479
+Filton and Bradley Stoke;74016;0,521;0,479
+North Somerset;80194;0,521;0,479
+East Londonderry;69246;0,52;0,48
+Wycombe;78093;0,52;0,48
+Angus;63952;0,519;0,481
+Macclesfield;76216;0,519;0,481
+Dwyfor Meirionnydd;44362;0,517;0,483
+Newcastle upon Tyne Central;63796;0,517;0,483
+Pudsey;73212;0,517;0,483
+Beckenham;68662;0,516;0,484
+Stretford and Urmston;72372;0,516;0,484
+Buckingham;83146;0,514;0,486
+Horsham;8673;0,514;0,486
+East Hampshire;76478;0,513;0,487
+Coventry South;70979;0,511;0,489
+Ruislip Northwood and Pinner;72816;0,51;0,49
+Beaconsfield;7772;0,508;0,492
+Chingford and Woodford Green;65393;0,508;0,492
+Enfield North;68301;0,508;0,492
+Hertford and Stortford;81765;0,508;0,492
+Caithness Sutherland and Easter Ross;4693;0,506;0,494
+Belfast North;72225;0,504;0,496
+Bridgend;63303;0,504;0,496
+Loughborough;79764;0,504;0,496
+Bromley and Chislehurst;66697;0,502;0,498
+Colne Valley;84174;0,502;0,498
+Milton Keynes North;91545;0,502;0,498
+Runnymede and Weybridge;77196;0,502;0,498
+Wythenshawe and Sale East;76313;0,502;0,498
+Moray;71035;0,501;0,499
+Wallasey;6631;0,501;0,499
+Gower;61762;0,499;0,501
+Weaver Vale;70551;0,499;0,501
+Liverpool West Derby;6564;0,498;0,502
+Croydon Central;81407;0,497;0,503
+North Wiltshire;7328;0,497;0,503
+Salisbury;74556;0,497;0,503
+East Devon;87168;0,496;0,504
+High Peak;74265;0,495;0,505
+Banbury;90116;0,495;0,505
+Chelmsford;80394;0,495;0,505
+Arundel and South Downs;81726;0,494;0,506
+Chichester;85499;0,494;0,506
+Southampton Test;70116;0,494;0,506
+South Antrim;71711;0,494;0,506
+Warrington South;86015;0,494;0,506
+Hertsmere;73971;0,492;0,508
+Lancaster and Fleetwood;70059;0,491;0,509
+Saffron Walden;87017;0,491;0,509
+Somerton and Frome;85866;0,491;0,509
+West Dorset;81897;0,491;0,509
+Ynys Môn;51925;0,491;0,509
+Colchester;82625;0,49;0,51
+Huddersfield;65525;0,49;0,51
+Central Devon;74926;0,489;0,511
+South Norfolk;86214;0,489;0,511
+Stratford-on-Avon;74037;0,489;0,511
+Watford;83359;0,489;0,511
+Birmingham Perry Barr;72006;0,488;0,512
+Derbyshire Dales;6508;0,488;0,512
+Sutton and Cheam;71779;0,488;0,512
+Blackley and Broughton;73372;0,487;0,513
+North East Hertfordshire;76123;0,487;0,513
+Belfast East;66245;0,486;0,514
+Devizes;73372;0,486;0,514
+Birmingham Hodge Hill;78295;0,485;0,515
+Shipley;74029;0,485;0,515
+South Swindon;73118;0,485;0,515
+Leicester West;6494;0,484;0,516
+Birkenhead;63762;0,483;0,517
+Brecon and Radnorshire;5549;0,483;0,517
+Sutton Coldfield;75638;0,483;0,517
+Portsmouth South;74186;0,482;0,518
+Eltham;64086;0,482;0,518
+Bedford;71581;0,481;0,519
+Surrey Heath;81349;0,481;0,519
+Aylesbury;86665;0,479;0,521
+North East Somerset;73692;0,479;0,521
+Eddisbury;737;0,478;0,522
+Harborough;80151;0,478;0,522
+Hazel Grove;63346;0,478;0,522
+Mid Bedfordshire;87795;0,478;0,522
+Chippenham;77221;0,477;0,523
+Vale of Glamorgan;76508;0,477;0,523
+Broxtowe;73052;0,476;0,524
+Knowsley;84082;0,476;0,524
+Clwyd West;57714;0,475;0,525
+Ilford North;72973;0,475;0,525
+Mid Derbyshire;67442;0,475;0,525
+Tonbridge and Malling;79278;0,475;0,525
+Wealden;82998;0,475;0,525
+Welwyn Hatfield;74892;0,475;0,525
+West Worcestershire;76241;0,475;0,525
+Congleton;8093;0,474;0,526
+Reading West;74137;0,474;0,526
+South Northamptonshire;90842;0,474;0,526
+Upper Bann;82887;0,474;0,526
+Meon Valley;75737;0,471;0,529
+Milton Keynes South;96363;0,471;0,529
+Taunton Deane;88676;0,471;0,529
+Shrewsbury and Atcham;82238;0,47;0,53
+Newport West;66657;0,47;0,53
+Skipton and Ripon;78673;0,47;0,53
+Lagan Valley;75735;0,469;0,531
+Leicester East;78433;0,469;0,531
+Bracknell;78978;0,468;0,532
+Calder Valley;79287;0,468;0,532
+Huntingdon;84657;0,468;0,532
+North East Bedfordshire;90678;0,468;0,532
+Aberconwy;44699;0,467;0,533
+Keighley;72778;0,467;0,533
+Solihull;7876;0,467;0,533
+Thornbury and Yate;69492;0,467;0,533
+Wells;84124;0,466;0,534
+Bournemouth East;74125;0,465;0,535
+Basingstoke;82928;0,464;0,536
+Bury North;68802;0,464;0,536
+East Worthing and Shoreham;75194;0,464;0,536
+Salford and Eccles;82202;0,464;0,536
+Blackburn;71234;0,463;0,537
+Bury St Edmunds;89644;0,463;0,537
+Carmarthen East and Dinefwr;57419;0,463;0,537
+Derby North;73199;0,463;0,537
+Tewkesbury;83958;0,463;0,537
+Worcester;73485;0,463;0,537
+Liverpool Walton;62628;0,462;0,538
+Sevenoaks;71757;0,462;0,538
+Rutland and Melton;82705;0,461;0,539
+Slough;86818;0,461;0,539
+Banff and Buchan;66655;0,46;0,54
+Broadland;78151;0,46;0,54
+Eastleigh;8388;0,46;0,54
+Totnes;69863;0,46;0,54
+Wyre and Preston North;74775;0,46;0,54
+East Surrey;83148;0,459;0,541
+South Suffolk;76201;0,459;0,541
+Neath;56419;0,458;0,542
+St Ives;68795;0,458;0,542
+Erith and Thamesmead;65399;0,457;0,543
+Central Suffolk and North Ipswich;80037;0,456;0,544
+Plymouth Sutton and Devonport;77852;0,456;0,544
+Bury South;75152;0,455;0,545
+North West Hampshire;83083;0,455;0,545
+Richmond (Yorks);82569;0,454;0,546
+Wolverhampton South West;60534;0,456;0,544
+Delyn;5456;0,453;0,547
+Bootle;74832;0,452;0,548
+Leeds West;67727;0,451;0,549
+North West Durham;72166;0,451;0,549
+West Lancashire;73347;0,451;0,549
+Southend West;69043;0,45;0,55
+Caerphilly;63166;0,449;0,551
+Hemel Hempstead;74035;0,449;0,551
+Bradford East;73206;0,448;0,552
+East Antrim;6483;0,448;0,552
+South West Devon;72535;0,448;0,552
+Carmarthen West and South Pembrokeshire;59158;0,447;0,553
+Penrith and The Border;67555;0,447;0,553
+Fareham;78337;0,446;0,554
+Bromsgrove;75078;0,446;0,554
+Haltemprice and Howden;71083;0,446;0,554
+Llanelli;60518;0,446;0,554
+Luton South;69338;0,446;0,554
+Berwick-upon-Tweed;59939;0,445;0,555
+Bolton West;73191;0,445;0,555
+Strangford;66928;0,445;0,555
+Newark;7585;0,443;0,557
+Preseli Pembrokeshire;59606;0,443;0,557
+New Forest West;70869;0,442;0,558
+Maidstone and The Weald;76109;0,442;0,558
+Suffolk Coastal;8191;0,442;0,558
+Feltham and Heston;80934;0,441;0,559
+Montgomeryshire;48997;0,441;0,559
+Vale of Clwyd;56649;0,441;0,559
+Gateshead;64449;0,44;0,56
+Gedling;71366;0,439;0,561
+Newton Abbot;72529;0,439;0,561
+St Helens South and Whiston;79061;0,439;0,561
+Wansbeck;63339;0,439;0,561
+Worthing West;78585;0,439;0,561
+Hastings and Rye;80524;0,438;0,562
+Blaydon;67853;0,437;0,563
+Carshalton and Wallington;72941;0,437;0,563
+Elmet and Rothwell;80957;0,437;0,563
+Uxbridge and South Ruislip;70365;0,437;0,563
+North Dorset;76765;0,436;0,564
+Thirsk and Malton;80991;0,436;0,564
+Chorley;78177;0,435;0,565
+Fylde;66847;0,435;0,565
+Ipswich;75525;0,435;0,565
+Weston-super-Mare;82526;0,434;0,566
+Barrow and Furness;70158;0,433;0,567
+Kingswood;68972;0,432;0,568
+Preston;59672;0,432;0,568
+South Ribble;75351;0,432;0,568
+Cynon Valley;51134;0,431;0,569
+North West Cambridgeshire;94909;0,431;0,569
+Poole;73989;0,431;0,569
+North Devon;75859;0,43;0,57
+Torridge and West Devon;80403;0,43;0,57
+Newcastle upon Tyne North;68211;0,429;0,571
+Stevenage;71562;0,429;0,571
+Dewsbury;81253;0,428;0,572
+Stafford;72572;0,428;0,572
+Lincoln;74942;0,427;0,573
+Norwich North;67172;0,427;0,573
+Wrexham;49737;0,427;0,573
+North Swindon;82441;0,426;0,574
+Lichfield;76616;0,425;0,575
+Orpington;68877;0,425;0,575
+Rochdale;78909;0,425;0,575
+Bexhill and Battle;81963;0,424;0,576
+Eastbourne;79307;0,424;0,576
+Sheffield Heeley;6694;0,424;0,576
+South West Wiltshire;77969;0,424;0,576
+Tiverton and Honiton;82953;0,424;0,576
+Selby and Ainsty;78398;0,424;0,576
+Alyn and Deeside;62789;0,423;0,577
+Bolton North East;67564;0,423;0,577
+Ellesmere Port and Neston;70327;0,423;0,577
+Bournemouth West;74205;0,422;0,578
+Halton;7193;0,422;0,578
+Stockton South;7687;0,422;0,578
+Mid Dorset and North Poole;65427;0,421;0,579
+Darlington;66397;0,42;0,58
+Forest of Dean;71438;0,42;0,58
+Meriden;85368;0,42;0,58
+Stone;69378;0,42;0,58
+Aldershot;72617;0,418;0,582
+Charnwood;79534;0,418;0,582
+Faversham and Mid Kent;73403;0,418;0,582
+Luton North;68185;0,418;0,582
+North Herefordshire;70252;0,418;0,582
+North Norfolk;70729;0,418;0,582
+South Leicestershire;8052;0,418;0,582
+St Helens North;75593;0,418;0,582
+The Wrekin;70693;0,418;0,582
+Rugby;72292;0,417;0,583
+South East Cornwall;71825;0,417;0,583
+Crawley;74207;0,416;0,584
+Merthyr Tydfil and Rhymney;56322;0,416;0,584
+Ludlow;69444;0,415;0,585
+Rossendale and Darwen;7277;0,415;0,585
+Coventry North West;75247;0,414;0,586
+Ribble Valley;79247;0,414;0,586
+South West Bedfordshire;79926;0,414;0,586
+Warrington North;72235;0,414;0,586
+Beverley and Holderness;79696;0,413;0,587
+Daventry;77423;0,413;0,587
+Halifax;71887;0,412;0,588
+Islwyn;55423;0,453;0,547
+Gloucester;81319;0,411;0,589
+Mid Worcestershire;7822;0,411;0,589
+Morecambe and Lunesdale;67397;0,411;0,589
+Sedgefield;64325;0,411;0,589
+Crewe and Nantwich;80321;0,41;0,59
+Coventry North East;76006;0,408;0,592
+Yeovil;82468;0,408;0,592
+Chesterfield;71034;0,407;0,593
+North Tyneside;78902;0,407;0,593
+Stalybridge and Hyde;73064;0,407;0,593
+Hayes and Harlington;72357;0,406;0,594
+North Shropshire;83258;0,406;0,594
+South Dorset;73809;0,406;0,594
+New Forest East;73549;0,405;0,595
+North Cornwall;69935;0,405;0,595
+Ashford;89553;0,405;0,595
+Northampton South;62163;0,404;0,596
+Morley and Outwood;78803;0,403;0,597
+Ogmore;57581;0,403;0,597
+Blyth Valley;64429;0,402;0,598
+Christchurch;7152;0,402;0,598
+Copeland;61693;0,402;0,598
+Worsley and Eccles South;75219;0,402;0,598
+Aberavon;5075;0,401;0,599
+Kingston upon Hull North;65515;0,401;0,599
+Oldham East and Saddleworth;7212;0,401;0,599
+Southampton Itchen;72299;0,401;0,599
+Sunderland Central;7268;0,4;0,6
+Birmingham Yardley;74704;0,399;0,601
+Corby;86153;0,399;0,601
+Hereford and South Herefordshire;72085;0,399;0,601
+North Durham;66796;0,399;0,601
+Clwyd South;53919;0,398;0,602
+Newport East;58554;0,398;0,602
+Barking;77953;0,397;0,603
+Batley and Spen;79558;0,397;0,603
+South Derbyshire;79331;0,397;0,603
+Spelthorne;70929;0,397;0,603
+Workington;6137;0,397;0,603
+Carlisle;65105;0,396;0,604
+Rochford and Southend East;75624;0,396;0,604
+Mid Norfolk;82203;0,395;0,605
+Bishop Auckland;6817;0,394;0,606
+Northampton North;58768;0,394;0,606
+Bosworth;81542;0,393;0,607
+North West Leicestershire;78935;0,393;0,607
+Brentwood and Ongar;75255;0,392;0,608
+Torfaen;6233;0,392;0,608
+Witham;70402;0,392;0,608
+Leeds East;67286;0,391;0,609
+Denton and Reddish;66234;0,39;0,61
+Epping Forest;74304;0,39;0,61
+Grantham and Stamford;81502;0,39;0,61
+Harwich and North Essex;74153;0,39;0,61
+Kettering;73164;0,39;0,61
+Rhondda;50262;0,388;0,612
+Maldon;72438;0,387;0,613
+Penistone and Stocksbridge;70925;0,387;0,613
+Scarborough and Whitby;74404;0,387;0,613
+Braintree;75208;0,386;0,614
+Redditch;65391;0,386;0,614
+Sheffield Brightside and Hillsborough;69333;0,386;0,614
+Sleaford and North Hykeham;94761;0,385;0,615
+Derby South;73062;0,384;0,616
+Jarrow;65103;0,384;0,616
+Newcastle-under-Lyme;57845;0,384;0,616
+South Thanet;73223;0,384;0,616
+Walsall South;68024;0,384;0,616
+Ashton-under-Lyne;67978;0,382;0,618
+Birmingham Northfield;73694;0,382;0,618
+Folkestone and Hythe;88272;0,382;0,618
+Warley;62357;0,382;0,618
+Gosport;73541;0,381;0,619
+Washington and Sunderland West;66278;0,381;0,619
+Isle of Wight;113021;0,381;0,619
+Blaenau Gwent;50739;0,38;0,62
+Gainsborough;76343;0,38;0,62
+Swansea East;5845;0,38;0,62
+Bridgwater and West Somerset;85327;0,379;0,621
+North East Derbyshire;72345;0,379;0,621
+Oldham West and Royton;72999;0,379;0,621
+Peterborough;7256;0,379;0,621
+South Shields;62793;0,379;0,621
+North Antrim;77134;0,378;0,622
+Havant;72103;0,376;0,624
+Heywood and Middleton;80162;0,376;0,624
+St Austell and Newquay;7993;0,376;0,624
+Wakefield;70192;0,374;0,626
+Houghton and Sunderland South;68835;0,374;0,626
+Torbay;75054;0,374;0,626
+Camborne and Redruth;7025;0,373;0,627
+Wigan;7568;0,373;0,627
+Wellingborough;80765;0,371;0,629
+Birmingham Erdington;66148;0,37;0,63
+Dover;76355;0,368;0,632
+Old Bexley and Sidcup;66104;0,368;0,632
+Wyre Forest;78077;0,369;0,631
+Pendle;65292;0,368;0,632
+West Suffolk;80193;0,368;0,632
+Waveney;82791;0,368;0,632
+East Yorkshire;80923;0,367;0,633
+Erewash;72523;0,367;0,633
+Bolton South East;69163;0,366;0,634
+Leigh;77417;0,366;0,634
+Bradford South;69046;0,365;0,635
+Gillingham and Rainham;73549;0,365;0,635
+Portsmouth North;71299;0,364;0,636
+Stourbridge;69891;0,364;0,636
+Rochester and Strood;82056;0,363;0,637
+Sherwood;77888;0,363;0,637
+Nottingham North;66495;0,362;0,638
+Dartford;82209;0,36;0,64
+Bognor Regis and Littlehampton;77446;0,358;0,642
+Staffordshire Moorlands;65485;0,355;0,645
+Burton;75036;0,354;0,646
+Chatham and Aylesford;71642;0,353;0,647
+Nuneaton;70226;0,353;0,647
+North Thanet;72756;0,351;0,649
+Bexleyheath and Crayford;65466;0,35;0,65
+Makerfield;7419;0,35;0,65
+Middlesbrough South and East Cleveland;72348;0,35;0,65
+Stoke-on-Trent Central;55419;0,35;0,65
+South Staffordshire;73668;0,348;0,652
+Amber Valley;69976;0,347;0,653
+Gravesham;73242;0,346;0,654
+Hyndburn;70842;0,343;0,657
+Sittingbourne and Sheppey;83917;0,343;0,657
+Broxbourne;73182;0,342;0,658
+Middlesbrough;60764;0,34;0,66
+Tamworth;71572;0,34;0,66
+North West Norfolk;7208;0,339;0,661
+Brigg and Goole;65939;0,338;0,662
+South West Norfolk;78455;0,338;0,662
+Doncaster Central;71389;0,337;0,663
+Halesowen and Rowley Regis;683;0,337;0,663
+Plymouth Moor View;6943;0,336;0,664
+Sheffield South East;67832;0,336;0,664
+Easington;61182;0,335;0,665
+Stockton North;66649;0,335;0,665
+Burnley;64345;0,334;0,666
+Rother Valley;74804;0,333;0,667
+Blackpool North and Cleveleys;63692;0,332;0,668
+Basildon and Billericay;69906;0,331;0,669
+Telford;68921;0,33;0,67
+Redcar;65864;0,325;0,675
+West Bromwich East;62046;0,325;0,675
+North Warwickshire;70271;0,323;0,677
+Wolverhampton North East;6166;0,323;0,677
+Aldridge-Brownhills;60138;0,322;0,678
+Blackpool South;5769;0,322;0,678
+Kingston upon Hull West and Hessle;60192;0,322;0,678
+Rayleigh and Wickford;7893;0,322;0,678
+Harlow;68078;0,32;0,68
+Hemsworth;73726;0,319;0,681
+Wolverhampton South East;62883;0,318;0,682
+Barnsley Central;65277;0,317;0,683
+Bassetlaw;80024;0,317;0,683
+Rotherham;61688;0,317;0,683
+Cleethorpes;73689;0,316;0,684
+Don Valley;75356;0,315;0,685
+Cannock Chase;74813;0,311;0,689
+Wentworth and Dearne;74536;0,311;0,689
+Scunthorpe;61955;0,31;0,69
+West Bromwich West;64517;0,309;0,691
+Romford;7235;0,308;0,692
+Normanton Pontefract and Castleford;84527;0,307;0,693
+Hornchurch and Upminster;80765;0,306;0,694
+Louth and Horncastle;79634;0,306;0,694
+North East Cambridgeshire;83699;0,306;0,694
+Hartlepool;70855;0,304;0,696
+Dagenham and Rainham;71045;0,301;0,699
+Clacton;7093;0,3;0,7
+Bolsover;75161;0,298;0,702
+Thurrock;79659;0,298;0,702
+Dudley South;60731;0,296;0,704
+Ashfield;78204;0,295;0,705
+Barnsley East;69504;0,293;0,707
+Stoke-on-Trent South;64491;0,292;0,708
+Mansfield;77131;0,291;0,709
+South Holland and the Deepings;75975;0,289;0,711
+Dudley North;61936;0,286;0,714
+Great Grimsby;61409;0,286;0,714
+Great Yarmouth;71957;0,285;0,715
+Doncaster North;72362;0,28;0,72
+Stoke-on-Trent North;68298;0,279;0,721
+Kingston upon Hull East;65745;0,274;0,726
+Castle Point;69608;0,273;0,727
+South Basildon and East Thurrock;74441;0,27;0,73
+Walsall North;67177;0,258;0,742
+Boston and Skegness;69381;0,251;0,749
